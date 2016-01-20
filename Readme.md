@@ -24,7 +24,7 @@ Let's say you have a folder structure like:
 
 You might run:
 
-`symlibs src/*/`
+`symlibs src/*`
 
 And then you'll be able to:
 
@@ -37,7 +37,7 @@ It's recommended to put this in the postinstall script for your project, like so
 ```json
 {
   "scripts": {
-    "postinstall": "symlibs src/*/"
+    "postinstall": "symlibs src/*"
   }
 }
 ```
