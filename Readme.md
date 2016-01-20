@@ -14,7 +14,6 @@ Symlink a glob of folders into your node_modules
 Let's say you have a folder structure like:
 
 ```
-.
 +-- .babelrc
 +-- package.json
 +-- src
