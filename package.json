@@ -2,7 +2,7 @@
   "name": "symlibs",
   "description": "Symlink a glob of folders into your node_modules",
   "repository": "git://github.com/ashaffer/symlibs.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "bin": {
     "symlibs": "bin/cli.js"
