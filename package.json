@@ -1,0 +1,18 @@
+{
+  "name": "symlibs",
+  "description": "Symlink a glob of folders into your node_modules",
+  "repository": "git://github.com/ashaffer/symlibs.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "bin": {
+    "symlibs": "bin/cli.js"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "glob": "^6.0.4"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0",
+    "standard": "^4.0.0"
+  }
+}
