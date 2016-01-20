@@ -37,7 +37,7 @@ It's recommended to put this in the postinstall script for your project, like so
 ```json
 {
   "scripts": {
-    "postinstall": "symblibs src/*/"
+    "postinstall": "symlibs src/*/"
   }
 }
 ```
